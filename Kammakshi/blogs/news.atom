@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://brooklyn-theme-classic.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://brooklyn-theme-classic.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://brooklyn-theme-classic.myshopify.com/blogs/news.atom"/>
+  <title> BKLYN - Blog</title>
+  <updated>2020-03-09T14:43:00-04:00</updated>
+  <author>
+    <name> BKLYN</name>
+  </author>
+  <entry>
+    <id>https://brooklyn-theme-classic.myshopify.com/blogs/news/the-big-launch</id>
+    <published>2020-03-09T14:43:00-04:00</published>
+    <updated>2020-03-09T14:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://brooklyn-theme-classic.myshopify.com/blogs/news/the-big-launch"/>
+    <title>THE BIG LAUNCH</title>
+    <author>
+      <name>Elyse Viotto</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>We’ve built our business on a set of deeply rooted personal values - sustainability, quality and community. Without your support, that last one wouldn’t be possible.</span><p><a class="read-more" href="https://brooklyn-theme-classic.myshopify.com/blogs/news/the-big-launch">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;"><img alt="Lifestyle image of a man wearing cork-sole shoes, sitting and watching the ocean" src="//cdn.shopify.com/s/files/1/0260/0583/1702/files/Group_20.png?v=1583779044" style="float: none;"></p>
+<p>We started with a mission to prove that a for-profit company could do serious, dirty conservation work. After 10 years of waterway cleanups, we’ve become intimately aware of the damage caused by single use plastics. </p>
+<blockquote>
+<p style="text-align: center;">“We’ve built our business on a set of deeply rooted personal values - sustainability, quality and community. Without your support, that last one wouldn’t be possible.”</p>
+</blockquote>
+<p style="text-align: left;">Our launch was, in a way, the next step in our journey to sustainability. It was not only the perfect time to showcase our new collections, but a way to celebrate our fundamental truth... that living sustainably by stopping pollution at its source is possible.<br><br>It felt like a dream come true to finally be able to launch with all of you celebrating alongside with us. Inspired by your enthusiasm, our product teams have already begun planning what’s next in our fashion line by sourcing sustainable fabrics and outdoor-friendly designs.<br><br>We just want to say thanks to everyone who has supported us on our journey. We can’t wait to share our new products and ideas with you very soon. Stay updated on our upcoming news and events here, or follow us on Instagram and Facebook. Here’s to a better planet for all of our tomorrows!</p>]]>
+    </content>
+  </entry>
+</feed>
